@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        	MathJax for HKGalden
 // @author			Khinchin and 180
-// @description 	Use MathJax to render math + Extra icons Sets on HKGalden
+// @description 	Use MathJax to render math
 // @version			4.12.5
 // @icon            https://i.na.cx/d9PV9.gif
 // @match       	*://hkgalden.com/*
