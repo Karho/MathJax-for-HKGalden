@@ -2,7 +2,7 @@
 // @name        	MathJax for HKGalden
 // @author			Khinchin and 180
 // @description 	Use MathJax to render math + Extra icons Sets on HKGalden
-// @version			4.12.2
+// @version			4.12.5
 // @icon            https://i.na.cx/d9PV9.gif
 // @match       	*://hkgalden.com/*
 // @match       	*://*.hkgalden.com/*
@@ -12,6 +12,10 @@
 // @include       	https://*.hkgalden.com/*
 // @run-at 			document-end
 // @license        	BSD License; http://opensource.org/licenses/BSD-3-Clause
+// @updateURL       https://openuserjs.org/install/Karho/MathJax_for_HKGalden.user.js
+// @updateURL       https://github.com/Karho/MathJax-for-HKGalden/raw/master/HKG-MET.user.js
+// @downloadURL     https://openuserjs.org/install/Karho/MathJax_for_HKGalden.user.js
+// @downloadURL     https://github.com/Karho/MathJax-for-HKGalden/raw/master/HKG-MET.user.js
 
 // ==/UserScript==
 /*
