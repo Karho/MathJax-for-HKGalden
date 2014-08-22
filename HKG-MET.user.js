@@ -2,7 +2,7 @@
 // @name        	MathJax for HKGalden
 // @author			Khinchin and 180
 // @description 	Use MathJax to render math + Extra icons Sets on HKGalden
-// @version			4.12.1
+// @version			4.12.2
 // @icon            https://i.na.cx/d9PV9.gif
 // @match       	*://hkgalden.com/*
 // @match       	*://*.hkgalden.com/*
@@ -11,7 +11,6 @@
 // @include       	https://hkgalden.com/*
 // @include       	https://*.hkgalden.com/*
 // @run-at 			document-end
-// @require			
 // @license        	BSD License; http://opensource.org/licenses/BSD-3-Clause
 
 // ==/UserScript==
